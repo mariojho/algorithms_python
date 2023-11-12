@@ -9,7 +9,6 @@ y = float(input("Dame el valor del número y: \n"))
 
 print("Dame la opción que deseas realizar: \n")
 
-# Se Despliega el menú para seleccionar la opción que deseas realizar
 print("1) Sumar (El primero más el segundo)")
 print("2) Restar (El primero menos el segundo)")
 print("3) Multiplicar (El primero por el segundo)")
@@ -44,7 +43,7 @@ elif(opcion == 6 and x > 0):
 elif(opcion == 6 and x <= 0):
     print("El valor de x es <= a cero y")
     print("NO  se puede calcular el logaritmo.")
-    bandera = True # Con bandera = 1 que no se puede calcular lo deseado
+    bandera = True 
 else:
     print("Opción desconocida")
 
