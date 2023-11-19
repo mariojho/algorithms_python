@@ -1,4 +1,7 @@
-''' Algoritmo de ordenamiento por selección '''
+''' Algoritmo de ordenamiento por selección 
+TODO: Hacerlo funcional
+'''
+
 
 calif = [4, 8, 6, 11, 3, 7, 9]; calif_ord = [0,0,0,0,0,0]
 print("calif", calif)

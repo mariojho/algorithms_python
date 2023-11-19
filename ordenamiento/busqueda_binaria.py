@@ -1,4 +1,7 @@
-''' Búsqueda binaria '''
+''' Búsqueda binaria 
+TODO: Hacerlo funcional
+'''
+
 vector = [] * 100
 
 n = int(input("Dame el número de elementos en la lista "))
